@@ -20,7 +20,7 @@ pip install pygame
 ## Usage
 
 ```bash
-python sand_simulation.py
+python app.py
 ```
 
 Watch as colorful sand particles cascade down and form natural-looking piles. The simulation automatically resets when the sand reaches the top.
